@@ -1,10 +1,14 @@
 # RAG-Chatbot-LangChain
  A repository for building a Retrieval-Augmented Generation (RAG) chatbot using LangChain. It involves loading a dataset as the knowledge base, setting up a RAG pipeline, and implementing a chatbot that retrieves relevant data and generates accurate responses to user queries.
-RAG Chatbot Implementation with LangChain
+RAG Chatbot Implementation with LangChain.
+
+
 Overview
+
 This repository demonstrates the implementation of a Retrieval-Augmented Generation (RAG) chatbot using LangChain. The chatbot loads a custom dataset as a knowledge base, retrieves relevant information, and generates accurate responses to user queries.
 
 Features
+
 Loads and processes datasets in formats like CSV, JSON, or documents.
 Implements a RAG pipeline using LangChain’s tools, including LLMChain.
 Enables accurate retrieval-based question answering from the knowledge base.
